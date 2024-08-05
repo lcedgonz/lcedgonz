@@ -2,8 +2,10 @@
 ## ¡Bienvenido(a) a mi ✨ perfil de GitHub ✨!
 
 - 💻 Estoy trabajando en dos proyectos para mi pasantía:
+  
       1. Una página web para una empresa de ingeniería industrial.
-      2. Un proyecto de ahorro de suministros para la empresa en la que soy pasante.  
+      2. Un proyecto de ahorro de suministros para la empresa en la que soy pasante.
+  
 - 🎓 Actualmente, estoy estudiando Desarrollo de Aplicaciones Multiplataforma en el TEP de PUCMM. 
 - 🤔 Estoy buscando ayuda para entender mejor el desarrollo back-end y ciertos paradigmas de programación.
 - 💬 Ask me about philosophy and true crime. Been there since 2005, I ain't stopping anymore. 
