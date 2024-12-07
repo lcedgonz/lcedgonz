@@ -16,7 +16,7 @@
 
 🎧 **Listen to my favorite track right now:**
 
-[![Play on Spotify](https://github.com/user-attachments/assets/732500c5-f9f8-4f04-bcb8-945bc82f6c34)](https://open.spotify.com/track/1wvu1wXWx2F2d0RlN3moNi)
+[![Play on Spotify](https://github.com/user-attachments/assets/732500c5-f9f8-4f04-bcb8-945bc82f6c34)](https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd?si=f736fa2f798840e9)
 
 
 
