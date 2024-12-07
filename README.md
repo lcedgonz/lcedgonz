@@ -14,6 +14,11 @@
 - ⚡ Fun fact: I'm caramelaphobic. For safety reasons, I ain't using candy emojis for this one.
 - 😎 '99 squad. I can't remember 2YK, sorry. But I can talk about it if you want, mate.
 
+🎧 **Listen to my favorite track right now:**
+
+[![Play on Spotify](https://github.com/user-attachments/assets/732500c5-f9f8-4f04-bcb8-945bc82f6c34)](https://open.spotify.com/track/1wvu1wXWx2F2d0RlN3moNi)
+
+
 
 <!--
 **lcedgonz/lcedgonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
